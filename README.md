@@ -1,5 +1,5 @@
 # Extract_transform_Load
-# Extract-Transform-Load
+
 Our purpose was to extract, transform & load datasets into a database in pgAdmin while providing step by step instructions for users to follow. We decided to observe active COVID-19 cases across the world in relation to continued vaccination efforts running from January 1, 2021 to March 21, 2021. We have successfully extracted, transformed, &amp; loaded this data utilizing csv files, Python in Jupyter Notebook and a SQL database.
 ​
 ​
